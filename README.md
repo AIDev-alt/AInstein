@@ -1,5 +1,7 @@
 # Crypto AInstein
 
+<img src="static/einstein.png" width="200" alt="Einstein AI Assistant"/>
+
 Chat with a crypto-savvy Einstein! Get blockchain and cryptocurrency insights explained through the lens of physics and Einstein's unique perspective.
 
 ## Setup
