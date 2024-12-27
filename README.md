@@ -37,9 +37,18 @@ Chat with a crypto-savvy Einstein! Get blockchain and cryptocurrency insights ex
 - Crypto-focused Einstein personality
 - Physics analogies for blockchain concepts
 
+
 ## Project Structure
 
-- `main.py`: The main Streamlit application
+Components of the project:
+- `agents/`: Contains the AI agent logic and personality
+- `ui/`: Handles all user interface components
+- `static/`: Stores static assets like images
+- `main.py`: Orchestrates the application flow
+
+Additional files:
+- `.gitignore`: Git ignore rules for Python, API keys, etc.
+- `LICENSE`: MIT license file
 - `requirements.txt`: List of Python dependencies
 - `README.md`: This documentation file
 
